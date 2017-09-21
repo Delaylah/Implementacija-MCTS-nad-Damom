@@ -1,0 +1,20 @@
+
+
+Upute za pokretanje programa
+
+
+1.  Preuzmite rješenje sa GitHub, i raspakujte rješenje da bi se moglo pokrenuti sa Visual Studio ( vidi Upute za preuzimanje programa. txt )
+
+2.  Pokrenite vaš Visual Studio, preferirano verzija 2015 ili 2017 (Communtiy, Proffesional, Enterprise)
+
+3.  Importujte projekat File->Open->(destinacija projekta) 
+
+4.  Za pokretanje 100 igara odjednom , lijevi klik na AutomatedPlay.GUI ->set as StartUp project ->Build
+
+   4.1.  Za pokretanje igara, klik na Start
+
+5.  Za pokretanje jedne igre , lijevi klik na CheckersBoard->set as StartUp project ->build
+
+   5.1  Izlaz: File->exit
+   5.2  Pokretanje igre svaki potez jedan klik : File->New Game->Next Move
+   5.3 Pokretanje automatizovanog igranja : File->Play Automated
