@@ -1,8 +1,5 @@
-
-
-                                Ukratko o rješenju
-                                
-
+                                     
+                                         
 U rješenju je implementirana igra Dama i agenti sa MCTS-om i DFS-om.
 Za implementaciju rješenja korišten je Visual Studio Community 2015, tj. programski jezik C#. 
 Program je napravljen kao interaktivni GUI sa prikladnim kodom koji izvršava sve funkcionalnosti. 
