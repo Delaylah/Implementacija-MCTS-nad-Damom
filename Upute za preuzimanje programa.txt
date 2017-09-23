@@ -1,0 +1,4 @@
+Upute za preuzimanje programa
+
+1. Git clone or download ->Download  ZIP
+2.otvorite direktorij u kojem se nalazi ovaj ZIP fajl i raspakujte ga.
